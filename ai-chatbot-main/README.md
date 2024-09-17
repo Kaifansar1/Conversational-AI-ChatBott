@@ -17,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Fork this repo- [fork](https://github.com/prayashdash1729/ai-chatbot/fork)
+1. Fork this repo- [fork](https://github.com/Kaifansar1/Conversational-AI-ChatBott/fork)
 2. Clone the forked repo
     ```sh
    git clone https://github.com/your_username_/forked-reo-name.git
